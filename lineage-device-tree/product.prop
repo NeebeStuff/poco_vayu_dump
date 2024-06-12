@@ -1,0 +1,29 @@
+# Bluetooth
+persist.bluetooth.bqr.event_mask=14
+persist.bluetooth.bqr.min_interval_ms=500
+persist.vendor.bt.a2dp.aac_whitelist=false
+persist.vendor.bt.a2dp.mac_whitelist=false
+persist.vendor.bt.aac_frm_ctl.enabled=true
+persist.vendor.btstack.connect.peer_earbud=true
+persist.vendor.btstack.enable.twsplus=true
+persist.vendor.btstack.enable.twsplussho=true
+ro.bluetooth.library_name=libbluetooth_qti.so
+
+# Camera
+persist.vendor.camera.privapp.list=org.codeaurora.snapcam,com.android.camera,org.lineageos.snap
+vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,org.lineageos.snap
+
+# Display
+ro.surface_flinger.supports_background_blur=1
+
+# Radio (IMS)
+persist.vendor.ims.disableADBLogs=1
+persist.vendor.ims.disableIMSLogs=1
+
+# Miscellaneous
+ro.com.google.lens.oem_camera_package=com.android.camera
+ro.config.alarm_alert=Argon.ogg
+ro.config.notification_sound=Chime.ogg
+ro.config.ringtone=Orion.ogg
+ro.sf.blurs_are_expensive=1
+

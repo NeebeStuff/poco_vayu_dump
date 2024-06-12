@@ -1,0 +1,20 @@
+## vayu_global-user 11 RKQ1.200826.002 V12.5.9.0.RJUMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: msmnile
+- Codename: vayu
+- Brand: POCO
+- Flavor: lineage_vayu-userdebug
+- Release Version: 11
+- Kernel Version: 4.14.345-openela
+- Id: RQ3A.211001.001
+- Incremental: eng.nobody.20240603.010018
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Xiaomi/vayu_global/vayu:11/RKQ1.200826.002/V12.5.9.0.RJUMIXM:user/release-keys
+- OTA version: 
+- Branch: vayu_global-user-11-RKQ1.200826.002-V12.5.9.0.RJUMIXM-release-keys
+- Repo: poco_vayu_dump
